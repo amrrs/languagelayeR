@@ -1,0 +1,13 @@
+Package: languagelayeR
+Type: Package
+Title: Detect Language Of The Given Text Using 'LanguageLayer API'
+Version: 0.1.0
+Author: c(person("AbdulMajedRaja","RS", email = "amrrs.data@gmail.com", role = "cre")
+Description: Detect Language type of the given text using LanguageLayer API. 
+    The languagelayer API relies on an ever-advancing, powerful and AI-based 
+    (Artificial Intelligence) detection algorithm.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    httr
