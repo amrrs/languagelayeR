@@ -2,6 +2,11 @@
 languagelayeR
 =============
 
+[![Travis-CI Build Status](https://travis-ci.org/amrrs/languagelayeR.svg?branch=master)](https://travis-ci.org/amrrs/languagelayeR)
+
+Overview
+=========
+
 The goal of `languagelayeR` is to detect language of the given string using LanguageLayer API.
 
 Installation
