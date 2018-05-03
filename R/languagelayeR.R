@@ -7,7 +7,7 @@
 #' \dontrun{detect_language(access_key = 'your_key', query = 'Nice day')}
 #' @importFrom httr GET content
 #' @export
-detect_language <- function(access_key,query, data_frame = TRUE) {
+detect_language <- function(access_key, query, data_frame = TRUE) {
 
   base_url <- 'http://apilayer.net/api/detect?access_key='
 
