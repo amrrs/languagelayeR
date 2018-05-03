@@ -4,9 +4,9 @@
 #' @param data_frame List is returned if FALSE dataframe if TRUE (default TRUE)
 #' @return A list or dataframe with the detected language and other parameters
 #' @examples
-#' get_valid_currencies()
+#' detect_language()
+#' @importFrom httr GET content
 #' @export
-
 detect_language <- function(access_key,query, data_frame = TRUE) {
 
   base_url <- 'http://apilayer.net/api/detect?access_key='

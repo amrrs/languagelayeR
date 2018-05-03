@@ -20,5 +20,5 @@ A list or dataframe with the detected language and other parameters
 Detect Language of the given String
 }
 \examples{
-get_valid_currencies()
+detect_language()
 }
