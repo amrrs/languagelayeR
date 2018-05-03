@@ -2,7 +2,9 @@
 languagelayeR
 =============
 
-[![Travis-CI Build Status](https://travis-ci.org/amrrs/languagelayeR.svg?branch=master)](https://travis-ci.org/amrrs/languagelayeR) [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/languagelayeR)](https://cran.r-project.org/package=languagelayeR)
+[![Travis-CI Build Status](https://travis-ci.org/amrrs/languagelayeR.svg?branch=master)](https://travis-ci.org/amrrs/languagelayeR) 
+
+**Package Development stoppped after realizing there is already a [better Package](https://github.com/ColinFay/languagelayeR) by ColinFay available for the same**
 
 Overview
 =========
