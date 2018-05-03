@@ -20,5 +20,5 @@ A list or dataframe with the detected language and other parameters
 Detect Language of the given String
 }
 \examples{
-detect_language()
+\dontrun{detect_language(access_key = 'your_key', query = 'Nice day')}
 }

@@ -4,7 +4,7 @@
 #' @param data_frame List is returned if FALSE dataframe if TRUE (default TRUE)
 #' @return A list or dataframe with the detected language and other parameters
 #' @examples
-#' detect_language()
+#' \dontrun{detect_language(access_key = 'your_key', query = 'Nice day')}
 #' @importFrom httr GET content
 #' @export
 detect_language <- function(access_key,query, data_frame = TRUE) {
